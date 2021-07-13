@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello World 👋
+I am a fullstack software engineer from bangladesh
+- 🔭 Working on multiple frontend project using HTML, CSS3, Bootstrap, Javascript and React JS
+- 🌱 Learning design patterns in depth
+<br>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
 
-<!--
-**praveshpal02/praveshpal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/-HTML-%23E34F26" />
 
-Here are some ideas to get you started:
+<img align="left" alt="https://img.shields.io/badge/-CSS3-%231572B6" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="react" src="https://img.shields.io/badge/-BOOTSTRAP-%237952B3" />
+
+<img align="left" alt="react" src="https://img.shields.io/badge/-FOUNDATION-%231F305F" />
+
+<img align="left" alt="react" src="https://img.shields.io/badge/-JAVSCRIPT-%23F7DF1E" />
+
+<img align="left" alt="react" src="https://img.shields.io/badge/-REACT-%2361DAFB" />
+
+
+
+
+<br>
+<br>
