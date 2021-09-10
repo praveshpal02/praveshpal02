@@ -3,9 +3,10 @@ I am a UI Developer from India
 - 🔭 Working on multiple frontend project using HTML, CSS3, Bootstrap, Javascript and React JS
 
 <br>
-## Connect with me [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pravesh-baghel-3251a0a9)
+## Connect with me 
+<p>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]</p>
+<p>(https://www.linkedin.com/in/pravesh-baghel-3251a0a9)</p>
 
-<br>
 <br>
 <h3>## Expertise</h3>
 
