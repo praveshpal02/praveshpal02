@@ -7,8 +7,8 @@ I am a UI Developer from India
 
 <br>
 <br>
-## Expertise
-
+<h3>## Expertise</h3>
+<br/>
 <img align="left" alt="react" src="https://img.shields.io/badge/-HTML-%23E34F26" />
 <img align="left" alt="" src="https://img.shields.io/badge/-CSS3-%231572B6" />
 <img align="left" alt="react" src="https://img.shields.io/badge/-BOOTSTRAP-%237952B3" />
