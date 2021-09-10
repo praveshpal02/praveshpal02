@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a UI Developer from India
-- 🔭 Working on multiple frontend project using HTML, CSS3, Bootstrap, Photoshop Javascript and React JS
+- 🔭 Working on multiple frontend project using HTML, CSS3, Bootstrap, Photoshop, Javascript and React JS
 
 
 <h3>## Connect with me </h3>
